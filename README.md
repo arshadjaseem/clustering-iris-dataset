@@ -1,4 +1,4 @@
- clusThe Iris dataset is a well-known collection of 150 iris flower samples, each described by four key features:
+ The Iris dataset is a well-known collection of 150 iris flower samples, each described by four key features:
 
 *Sepal Length
 
