@@ -1,9 +1,13 @@
  clusThe Iris dataset is a well-known collection of 150 iris flower samples, each described by four key features:
 
-Sepal Length
-Sepal Width
-Petal Length
-Petal Width
+*Sepal Length
+
+*Sepal Width
+
+*Petal Length
+
+*Petal Width
+
 The objective of clustering is to organize these flowers into distinct groups based on their features—without referencing their actual species labels. Here's a step-by-step approach:
 
 1. Preprocessing
